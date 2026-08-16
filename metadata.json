@@ -1,0 +1,6 @@
+{
+  "name": "AutoPlay",
+  "description": "AutoPlay by Madhuri Wankhede - Practical AI and automation coaching for professionals and organizations. Turn repetitive work into automated workflows with hands-on guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
